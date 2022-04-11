@@ -89,6 +89,7 @@ body{
   height: 100%;
   background: #042331;
   transition: all .5s ease;
+  margin-top: -42px;
 }
 .sidebar header{
   font-size: 22px;
