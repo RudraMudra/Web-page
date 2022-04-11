@@ -97,6 +97,7 @@ body{
   text-align: center;
   line-height: 70px;
   background: #063146;
+  margin-top: -42px;
 }
 .sidebar .a a{
   display: block;
